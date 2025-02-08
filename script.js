@@ -25,3 +25,5 @@ function removeTask(button) {
   let li = button.parentElement;
   li.remove();
 }
+
+//TEST FOR CHECKING GIT MERGE
